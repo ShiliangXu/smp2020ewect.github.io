@@ -24,7 +24,7 @@ layout: default
 
 &ensp;&ensp;&ensp;&ensp;本届微博情感分析技术评测由中国中文信息学会社会媒体处理专委会主办，哈尔滨工业大学承办并提供标注数据集，上海蜜度信息技术有限公司提供原始数据及奖金，旨在促进社交媒体情感分析相关研究的发展，为本领域的学术研究人员和产业界从业人员提供一个良好的沟通平台。
 
-   热烈欢迎对微博情感分析感兴趣的个人和团队积极报名参赛！
+&ensp;&ensp;&ensp;&ensp;热烈欢迎对微博情感分析感兴趣的个人和团队积极报名参赛！
 
 ### 评测内容
 
@@ -73,7 +73,7 @@ layout: default
 | :------: | ---------------------------------------------------------- | ------ |
 |    1     | 每个月都有特别气愤的时候。，多少个瞬间想甩手不干了，杂七杂八，当我是什么。 |  angry   |
 
-   测试数据集以xlsx格式发布，包含两列：数据编号，文本。示例如下：
+&ensp;&ensp;&ensp;&ensp;测试数据集以xlsx格式发布，包含两列：数据编号，文本。示例如下：
 
 | 数据编号 |                             文本                             |
 | :------: | ---------------------------------------------------------- |
@@ -89,7 +89,7 @@ layout: default
 
 $$P_e=\frac{TP_e}{TP_e+FP_e}, R_e=\frac{TP_e}{TP_e+FN_e}\\F_e=\frac{2\times P_e\times R_e}{P_e+R_e}\\Macro\_F=\frac{1}{n}\sum_{e\in Emotions}F_{e}\\Macro\_F_{final} = \frac{(Macro\_F_{通用}+Macro\_F_{疫情})}{2}\\$$ 
 
-其中$$e\in Emotions, Emotions=\{happy, angry, sad, fear, surprise, neural\}$$
+&ensp;&ensp;&ensp;&ensp;其中$$e\in Emotions, Emotions=\{happy, angry, sad, fear, surprise, neural\}$$
 
 ### 注册报名
 
@@ -101,9 +101,9 @@ $$P_e=\frac{TP_e}{TP_e+FP_e}, R_e=\frac{TP_e}{TP_e+FN_e}\\F_e=\frac{2\times P_e\
 
 ### 重要日期
 
-以下所有时间点为北京时间（GMT+8）11:59 PM。
+&ensp;&ensp;&ensp;&ensp;以下所有时间点为北京时间（GMT+8）11:59 PM。
 
-除报名时间以外，其他时间点可能会有变动，请注册参加者密切关注本网站以及邮件通知。
+&ensp;&ensp;&ensp;&ensp;除报名时间以外，其他时间点可能会有变动，请注册参加者密切关注本网站以及邮件通知。
 
 | 事件                                    | 时间                       |
 | --------------------------------------- | -------------------------- |
