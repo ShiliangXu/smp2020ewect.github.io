@@ -95,7 +95,7 @@ $$P_e=\frac{TP_e}{TP_e+FP_e}, R_e=\frac{TP_e}{TP_e+FN_e}\\F_e=\frac{2\times P_e\
 
 &ensp;&ensp;&ensp;&ensp;有意向参加的单位机构请直接填写[在线报名表](https://docs.qq.com/form/fill/DZGVJT256eUxOREtP?_w_tencentdocx_form=1)。或者扫描下方二维码进入在线报名表填写。
 
-<img src="https://tva1.sinaimg.cn/large/007S8ZIlly1gds8akpihaj30a60dcjs2.jpg" width="50%">
+<img src="https://tva1.sinaimg.cn/large/007S8ZIlly1gds8akpihaj30a60dcjs2.jpg" width="50%" align="middle">
 
 ![SMP2020微博情感分析技术评测报名表二维码](https://tva1.sinaimg.cn/large/007S8ZIlly1gds8akpihaj30a60dcjs2.jpg)
 
