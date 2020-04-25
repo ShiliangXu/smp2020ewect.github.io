@@ -61,11 +61,11 @@ layout: default
 
 &ensp;&ensp;&ensp;&ensp;每条微博被标注为以下六个类别之一：neural（无情绪）、happy（积极）、angry（愤怒）、sad（悲伤）、fear（恐惧）、surprise（惊奇）。
 
-&ensp;&ensp;&ensp;&ensp;通用微博训练数据集包括29,769条微博，测试数据集规模在十万左右。
+&ensp;&ensp;&ensp;&ensp;通用微博训练数据集包括29,769条微博，测试数据集包含5000条微博。
 
-&ensp;&ensp;&ensp;&ensp;疫情微博训练数据集包括6,607条微博，测试数据集规模在十万左右。
+&ensp;&ensp;&ensp;&ensp;疫情微博训练数据集包括6,607条微博，测试数据集包含5000条微博。
 
-&ensp;&ensp;&ensp;&ensp;两个测试集中均包含混淆数据，混淆数据不作为测点，在最终结果评测时会预先去除。
+&ensp;&ensp;&ensp;&ensp;实际发布的测试集中会包含混淆数据，混淆数据不作为测点，在最终结果评测时会预先去除。
 
 &ensp;&ensp;&ensp;&ensp;训练数据集以xlsx格式发布，包含三列：数据编号，文本，情绪标签。示例如下：
 
