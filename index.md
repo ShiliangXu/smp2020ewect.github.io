@@ -97,8 +97,6 @@ $$P_e=\frac{TP_e}{TP_e+FP_e}, R_e=\frac{TP_e}{TP_e+FN_e}\\F_e=\frac{2\times P_e\
 
 <div align="center"><img src="https://tva1.sinaimg.cn/large/007S8ZIlly1gds8akpihaj30a60dcjs2.jpg" width="50%"></div>
 
-![SMP2020微博情感分析技术评测报名表二维码](https://tva1.sinaimg.cn/large/007S8ZIlly1gds8akpihaj30a60dcjs2.jpg)
-
 &ensp;&ensp;&ensp;&ensp;报名存在任何问题，请联系评测会务组：smp2020esat@163.com。
 
 ### 重要日期
