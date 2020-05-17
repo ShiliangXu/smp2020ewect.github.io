@@ -146,6 +146,10 @@ $$P_e=\frac{TP_e}{TP_e+FP_e}, R_e=\frac{TP_e}{TP_e+FN_e}\\F_e=\frac{2\times P_e\
 
 - 三等奖（3名）：每名3,000元
 
+
+### 论文发表
+本技术评测将与国际期刊Data Intelligence（[http://www.data-intelligence.org/](http://www.data-intelligence.org/)）合作，获奖的优秀模型将有机会以单独或综述的方式在该刊上发表技术论文，发表的论文将会获得期刊颁发的奖励。
+
 ### 评测委员会
 
 **主席**：赵妍妍（哈尔滨工业大学）
