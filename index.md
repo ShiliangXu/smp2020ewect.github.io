@@ -198,7 +198,7 @@ $$P_e=\frac{TP_e}{TP_e+FP_e}, R_e=\frac{TP_e}{TP_e+FN_e}\\F_e=\frac{2\times P_e\
 - [炬火-SMP2020-EWECT评测技术报告.pdf](https://github.com/smp2020ewect/smp2020ewect.github.io/blob/master/reports/%E7%82%AC%E7%81%AB-SMP2020-EWECT%E8%AF%84%E6%B5%8B%E6%8A%80%E6%9C%AF%E6%8A%A5%E5%91%8A.pdf)
 - [NanshanNLP-SMP2020-EWECT技术报告.pdf](https://github.com/smp2020ewect/smp2020ewect.github.io/blob/master/reports/NanshanNLP-SMP2020EWECT%E6%8A%80%E6%9C%AF%E6%8A%A5%E5%91%8A.pdf)
 
-
+如若上述链接无法下载，也可以前往百度网盘下载。链接: [https://pan.baidu.com/s/1iSxAkETd2Ia2f3uvsTQLrA](https://pan.baidu.com/s/1iSxAkETd2Ia2f3uvsTQLrA)  密码: s83q
 ### 论文发表
 
 本技术评测将与国际期刊Data Intelligence（[http://www.data-intelligence.org/](http://www.data-intelligence.org/)）合作，获奖的优秀模型将有机会以单独或综述的方式在该刊上发表技术论文，发表的论文将会获得期刊颁发的奖励。
