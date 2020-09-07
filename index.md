@@ -189,7 +189,7 @@ $$P_e=\frac{TP_e}{TP_e+FP_e}, R_e=\frac{TP_e}{TP_e+FN_e}\\F_e=\frac{2\times P_e\
     - 炬火
 
 
-### 技术报告
+### 技术报告&汇报PPT
 - [Tencent-SMP2020-EWECT评测技术报告.pdf](https://github.com/smp2020ewect/smp2020ewect.github.io/blob/master/reports/Tencent-SMP2020-EWECT%E8%AF%84%E6%B5%8B%E6%8A%80%E6%9C%AF%E6%8A%A5%E5%91%8A.pdf)
 - [清博大数据-SMP2020-EWECT评测技术报告.pdf](https://github.com/smp2020ewect/smp2020ewect.github.io/blob/master/reports/%E6%B8%85%E5%8D%9A%E5%A4%A7%E6%95%B0%E6%8D%AE-SMP2020-EWECT%E8%AF%84%E6%B5%8B%E6%8A%80%E6%9C%AF%E6%8A%A5%E5%91%8A.pdf)
 - [拿第一导师请吃肯德基-SMP2020-EWECT评测技术报告.pdf](https://github.com/smp2020ewect/smp2020ewect.github.io/blob/master/reports/%E6%8B%BF%E7%AC%AC%E4%B8%80%E5%AF%BC%E5%B8%88%E8%AF%B7%E5%90%83%E8%82%AF%E5%BE%B7%E5%9F%BA-SMP2020EWECT%E8%AF%84%E6%B5%8B%E6%8A%80%E6%9C%AF%E6%8A%A5%E5%91%8A.pdf)
