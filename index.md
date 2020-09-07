@@ -200,7 +200,7 @@ $$P_e=\frac{TP_e}{TP_e+FP_e}, R_e=\frac{TP_e}{TP_e+FN_e}\\F_e=\frac{2\times P_e\
 
 技术报告也可前往百度网盘下载。链接: [https://pan.baidu.com/s/1iSxAkETd2Ia2f3uvsTQLrA](https://pan.baidu.com/s/1iSxAkETd2Ia2f3uvsTQLrA)  密码: s83q
 
-获奖队伍评测汇报PPT下载链接: https://pan.baidu.com/s/1kxHqM4SXtxDTKkLKpX1ibQ  密码: ast3
+获奖队伍评测汇报PPT下载链接: [https://pan.baidu.com/s/1kxHqM4SXtxDTKkLKpX1ibQ](https://pan.baidu.com/s/1kxHqM4SXtxDTKkLKpX1ibQ)  密码: ast3
 
 ### 论文发表
 
