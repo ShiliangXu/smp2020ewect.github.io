@@ -84,8 +84,10 @@ layout: default
 |    1     | #全国已确诊新型肺炎病例319例#中国加油!一定会过去的，相信医生，相信国家，相信医护人员!!! ?? |
 
 
+### 数据集下载
+本次评测所有的数据集已经发布，下载链接: [https://pan.baidu.com/s/1afYqyi63OWiQMR6rntBxqQ](https://pan.baidu.com/s/1afYqyi63OWiQMR6rntBxqQ)  密码: e0ul
 
-#### 评价指标
+### 评价指标
 
 &ensp;&ensp;&ensp;&ensp;本次评测以宏平均F1值作为评测指标，最终，我们会对通用微博测试集的测试结果和疫情微博的测试结果进行平均，作为最终的测试结果，即：
 
