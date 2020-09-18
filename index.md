@@ -63,7 +63,7 @@ layout: default
 
 &ensp;&ensp;&ensp;&ensp;因此，本次评测训练集包含上述两类数据：通用微博训练数据和疫情微博训练数据，相对应的，测试集也分为通用微博测试集和疫情微博测试集。参赛成员可以同时使用两种训练数据集来训练模型。
 
-&ensp;&ensp;&ensp;&ensp;每条微博被标注为以下六个类别之一：neural（无情绪）、happy（积极）、angry（愤怒）、sad（悲伤）、fear（恐惧）、surprise（惊奇）。
+&ensp;&ensp;&ensp;&ensp;每条微博被标注为以下六个类别之一：neutral（无情绪）、happy（积极）、angry（愤怒）、sad（悲伤）、fear（恐惧）、surprise（惊奇）。
 
 &ensp;&ensp;&ensp;&ensp;通用微博训练数据集包括27,768条微博，验证集包含2,000条微博，测试数据集包含5,000条微博。
 
@@ -95,7 +95,7 @@ layout: default
 
 $$P_e=\frac{TP_e}{TP_e+FP_e}, R_e=\frac{TP_e}{TP_e+FN_e}\\F_e=\frac{2\times P_e\times R_e}{P_e+R_e}\\Macro\_F=\frac{1}{n}\sum_{e\in Emotions}F_{e}\\Macro\_F_{final} = \frac{(Macro\_F_{通用}+Macro\_F_{疫情})}{2}\\$$ 
 
-其中$e\in Emotions, Emotions=\{happy, angry, sad, fear, surprise, neural\}$
+其中$e\in Emotions, Emotions=\{happy, angry, sad, fear, surprise, neutral\}$
 
 ### 注册报名
 
