@@ -95,7 +95,7 @@ layout: default
 
 $$P_e=\frac{TP_e}{TP_e+FP_e}, R_e=\frac{TP_e}{TP_e+FN_e}\\F_e=\frac{2\times P_e\times R_e}{P_e+R_e}\\Macro\_F=\frac{1}{n}\sum_{e\in Emotions}F_{e}\\Macro\_F_{final} = \frac{(Macro\_F_{通用}+Macro\_F_{疫情})}{2}\\$$ 
 
-其中$e\in Emotions, Emotions=\left\{happy, angry, sad, fear, surprise, neutral\right\}$
+其中$e\in Emotions, Emotions= \{ happy, angry, sad, fear, surprise, neutral \}$
 
 ### 注册报名
 
