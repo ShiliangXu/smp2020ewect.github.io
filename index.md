@@ -85,7 +85,8 @@ layout: default
 
 
 ### 数据集下载
-本次评测所有的数据集已经发布，下载链接: [https://pan.baidu.com/s/1W89gmi3UB1jdl-dXPp9DgQ](https://pan.baidu.com/s/1W89gmi3UB1jdl-dXPp9DgQ)  密码: rq5n
+本次评测所有的数据集已经发布，下载链接: [https://pan.baidu.com/s/1JeKK1dNlKFzbk_TXuOdCVw](https://pan.baidu.com/s/1JeKK1dNlKFzbk_TXuOdCVw)  密码: isp0
+    解压密码：smp200ewect
 
 ### 评价指标
 
