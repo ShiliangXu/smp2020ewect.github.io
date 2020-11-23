@@ -86,8 +86,8 @@ layout: default
 
 ### 数据集下载
 本次评测所有的数据集已经发布:
-- **下载链接**: https://pan.baidu.com/s/1JeKK1dNlKFzbk_TXuOdCVw
-- **分享密码**: isp0
+- **下载链接**：https://pan.baidu.com/s/1JeKK1dNlKFzbk_TXuOdCVw
+- **分享密码**：isp0
 - **解压密码**：smp2020ewect
 
 ### 评价指标
